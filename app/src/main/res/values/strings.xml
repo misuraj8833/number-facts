@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NumberAndFacts</string>
+    <string name="action_facts2">MoreFun</string>
+    <string-array name="facts_name">
+        <item>trivia</item>
+        <item>math</item>
+        <item>date</item>
+        <item>year</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main_">Main_Activity</string>
+</resources>
